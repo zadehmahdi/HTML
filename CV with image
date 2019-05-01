@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="apple-touch-icon" sizes="57x57" href="../favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="../favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="../favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="../favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="../favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="../favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="../favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="../favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../favicon/favicon-16x16.png">
+<link rel="manifest" href="../favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+	<meta charset="UTF-8">
+	<title>Homepage</title>
+	<a href=https://www.linkedin.com/in/mahdi-zadeh">
+<img src="../img/photo.jfif" alt="Ehsan Pahlavan" style="width: 150px;height: 180px;border:10px;"></a>
+</head>
+<body>
+
+<h1>My Resume</h1>
+<p><b>Mahdi Ehsan Zadeh Pahlavan</b></p>
+<!--my identification-->
+<br>
+<h2>Study</h2>
+<p1><b>Master Degree in IT engineering</b></p1>
+<br>
+<br>
+<p2><b>Bachelor Degree in Industrial Engineering-Control</b></p2>
+<!--my educational experiences-->
+<br>
+<br>
+<h3>Work</h3>
+<p1><b>IT & System administration </b> (for 7 years)</p1>
+<br>
+<br>
+<p2><b>Project Control </b> (for 5 years)</p2>
+<!--my work experiences-->
+<br>
+<br>
+<h4>Email Address</h4>
+<p style="color: blue">mahdi.zadeh@itdcanada.ca</p>
+<!--my email address-->
+<a href="https://www.linkedin.com/in/mahdi-zadeh"title="Click for linkedin"target=_blank">linedin profile</a>
+
+</body>
+</html>
